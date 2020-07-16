@@ -1,4 +1,4 @@
-# Final Project Proposal
+# Project Proposal
 ### John Viviani
 **Statement of Work**
 
